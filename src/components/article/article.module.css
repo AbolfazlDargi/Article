@@ -1,6 +1,26 @@
 .articlewrapper{ 
-    width: 23%;
-    height: 400px;
-    background-color: orange;
-    margin-bottom: 20px;
+    height: full;
+    box-shadow: 0px 3px 5px #ccc;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.articlewrapper img{
+    width: 100%;
+
+}
+
+.articlewrapper h3{
+    text-align: right;
+    padding: 10px;
+}
+
+.articlewrapper p{
+    text-align: right;
+    padding: 20px 5px 10px 10px;
+    color: #777;
+}
+
+.homeWarpper h2{
+    
 }

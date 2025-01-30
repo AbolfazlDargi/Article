@@ -1,0 +1,29 @@
+.creeatArticlePage {
+    background-color: #f0f0f0;
+}
+
+.createArticlePage h1 {
+    text-align: right;
+    margin: 40px 0;
+    font-weight: 400;
+    
+}
+
+.buttonwrapper{
+    text-align: right;
+}
+
+.buttonwrapper button {
+    padding: 5px 10px;
+    background-color: cornflowerblue;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+}
+
+.buttonwrapper button:active{
+    opacity: .8;
+}
+
+
